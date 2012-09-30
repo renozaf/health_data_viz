@@ -93,7 +93,7 @@ $connDB = ConnectDB() ;
     
     function getMarkerImage(i, imgScalingFactor) {
             siz = sizes[i] * imgScalingFactor ;
-            return new google.maps.MarkerImage('http://filemails.com/opendata/images/image_points_on_map.png', null,null,
+            return new google.maps.MarkerImage('http://filemails.com/opendata/img/image_points_on_map.png', null,null,
                 new google.maps.Point(siz / 2.0, siz / 2.0),
                 new google.maps.Size(siz,siz,'px','px')) ;
     }
