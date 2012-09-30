@@ -15,7 +15,7 @@ $connDB = ConnectDB() ;
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bootstrap, from Twitter</title>
+    <title>Health data visualization</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Visualisation des chiffres-clés des hôpitaux suisses">
     <meta name="author" content="Renaud Hirsch">
